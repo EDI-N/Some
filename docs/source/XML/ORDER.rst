@@ -14,7 +14,7 @@ ORDER
    Train Fare,,70.00,**0.00**
 
 .. csv-table:: Таблиця 1 - Структура таблиці (ресурсу) list
-  :file: /files/somedoc.csv
+  :file: files/somedoc.csv
   :header-rows: 1
 
 тип должно сработать
