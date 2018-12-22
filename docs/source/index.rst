@@ -9,6 +9,7 @@ Welcome to Docs's documentation!
 Contents:
 
 .. toctree::
+   :caption: Documentation
    :maxdepth: 2
    
    marka
