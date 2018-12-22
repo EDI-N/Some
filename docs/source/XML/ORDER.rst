@@ -5,7 +5,7 @@ ORDER
 
 .. csv-table:: Balance Sheet
    :header: Description,In,Out,Balance
-   :widths: 20, 10, 10, 10
+   :widths:  30, 10, 10, 10
    :stub-columns: 1
 
    Travel,,230.00,-230.00
@@ -15,6 +15,7 @@ ORDER
 
 .. csv-table:: Таблиця 1 - Структура таблиці (ресурсу) list
   :file: files/somedoc.csv
+  :widths:  40, 7, 12, 41
   :header-rows: 1
 
 тип должно сработать
