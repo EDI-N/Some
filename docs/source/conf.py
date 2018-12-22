@@ -37,7 +37,7 @@ extensions = [
 templates_path = ['ntemplates']
 
 # добавил для возможности использования файлов .md
- from recommonmark.parser import CommonMarkParser
+from recommonmark.parser import CommonMarkParser
 
 source_parsers = {
     '.md': CommonMarkParser,
