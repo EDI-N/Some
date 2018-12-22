@@ -40,7 +40,7 @@ templates_path = ['ntemplates']
 from recommonmark.parser import CommonMarkParser
 
 source_parsers = {
-    '.md': CommonMarkParser,
+   '.md': 'recommonmark.parser.CommonMarkParser',
 }
 
 # The suffix(es) of source filenames.
